@@ -1,2 +1,2 @@
-# Clase Introduccion a la Programacion
+# Introduccion a la Programacion
 Repositorio para Introducción a la programación
